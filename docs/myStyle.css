@@ -44,6 +44,10 @@ a {
   text-decoration: none;
  }
 
+ a:hover {
+   opacity: 80%;
+ }
+
 .headerText {
   font-size: 5vh;
   color: #c9c9c9;
@@ -60,10 +64,6 @@ footer {
   height: 8vh;
   padding: 2vh;
   text-decoration: none;
-}
-
-.icon:hover {
-  opacity: 80%;
 }
 
 table.center {
