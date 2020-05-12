@@ -5,6 +5,7 @@ body {
   background-image: url("background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
 }
 
 .openingText {
@@ -24,6 +25,13 @@ h2 {
   text-align: inherit;
   padding-top: 5vh;
   font-size: 10vh;
+}
+
+h3 {
+  color: inherit;
+  text-align: inherit;
+  padding: none;
+  font-size: 6vw;
 }
 
 header {
@@ -69,4 +77,11 @@ footer {
 table.center {
   margin-left: auto;
   margin-right: auto;
+}
+
+.centerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
