@@ -63,15 +63,15 @@ a {
 }
 
 footer {
-  position: static;
+  position: fixed;
   bottom: 0;
   width: 100%;
   background-color: #c9c9c9;
 }
 
 .icon {
-  height: 8vh;
-  padding: 2vh;
+  height: 5vh;
+  padding: 1vw;
   text-decoration: none;
 }
 
