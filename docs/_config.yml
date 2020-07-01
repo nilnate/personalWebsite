@@ -17,6 +17,7 @@ navbar-links:
   About me: "aboutMe"
   Home: "/"
   Projects: "projects/index.html"
+  Résumé: "assets/LuskeyResumeNoContactInfo.pdf"
 
 #to put posts from projects on different page
 paginate_path: "/projects/page:num/"
