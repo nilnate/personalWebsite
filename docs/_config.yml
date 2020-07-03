@@ -15,7 +15,7 @@ author: Nathan Luskey
 
 navbar-links:
   About me: "aboutMe"
-  Home: "/"
+  # Home: "/"
   Projects: "projects/index.html"
   Résumé: "assets/LuskeyResumeNoContactInfo.pdf"
 

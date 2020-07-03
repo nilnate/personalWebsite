@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Home
-subtitle: Still working on it!
+subtitle: Welcome!
 ---
 
-### I just changed this to jekyll, so stick with me...
+### Feel free to explore
+There are a few areas I've worked on so far:
+- [About Me]("aboutMe.md) - some information about me  
+
+- [Projects](projects/index.html) - a semi-random collection of projects.  
+
+- [Résumé](assets/LuskeyResumeNoContactInfo.pdf)  
