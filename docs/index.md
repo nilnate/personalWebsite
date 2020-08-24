@@ -6,9 +6,9 @@ subtitle: Welcome!
 
 ### Feel free to explore
 There are a few areas I've worked on so far:
-- [About Me]("aboutMe.md)  
+- [About Me](aboutMe.md)  
 
-- [Projects](projects/index.html) - a semi-random collection of projects.  
+- [Projects](projects/index.html)
 
 - [Résumé](assets/LuskeyResumeSummer2020_NO_PHONE.pdf)  
 
