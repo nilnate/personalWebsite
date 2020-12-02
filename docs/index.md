@@ -10,7 +10,7 @@ There are a few areas I've worked on so far:
 
 - [Projects](projects/index.html)
 
-- [Résumé](assets/LuskeyResumeSummer2020_NO_PHONE.pdf)  
+- [Résumé](assets/LuskeyResume2020_NO_PHONE.pdf)  
 
 
 And below is contact information.
